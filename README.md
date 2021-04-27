@@ -1,6 +1,7 @@
 # Advanced machine learning image segmentation with UNET
-A workshop on using UNET machine learning architectures for segmentation using the Tensorflow/Keras framworks.
+A workshop on using UNET machine learning architectures for segmentation using the Tensorflow/Keras frameworks.
 
+[THIS IS UNDER DEVELOPMENT AND STILL HAS SOME THINGS TO BE COMPLETED!]
 
 Outline of possible topics for the workshop
 
@@ -15,5 +16,5 @@ Outline of possible topics for the workshop
 * Image generators
 * Using pre-trained encoders
 * Useful methods for pre-processing
-* Interactive examples: whale tail segmentation, Electron Microscopy imaging segmentation
+* Interactive example and code: Electron Microscopy imaging segmentation
 
