@@ -1,20 +1,18 @@
 # Advanced machine learning image segmentation with UNET
 A workshop on using UNET machine learning architectures for segmentation using the Tensorflow/Keras frameworks.
 
-[THIS IS UNDER DEVELOPMENT AND STILL HAS SOME THINGS TO BE COMPLETED!]
 
-Outline of possible topics for the workshop
+Topics for the workshop
 
 * Brief introduction to Keras
 * Convolutions, skipping and max pooling
 * The structure of UNET
-* Metrics for measuring image/mask similarity
-* Loss functions for images/masks
-* Optimiser choice
 * Tiling and batch sizes, memory limitations
 * Data augmentation
 * Image generators
-* Using pre-trained encoders
-* Useful methods for pre-processing
+* Metrics for measuring image/mask similarity
+* Loss functions for images/masks
+* Optimiser choice
+* Using Google Colab for development
 * Interactive example and code: Electron Microscopy imaging segmentation
 
